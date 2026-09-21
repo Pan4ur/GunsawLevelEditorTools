@@ -1,0 +1,30 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GunsawImageCode", "src\GunsawImageCode\GunsawImageCode.csproj", "{4CB46520-F1D2-4AAF-B78D-171E07D847F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GunsawArtConverter", "src\GunsawArtConverter\GunsawArtConverter.csproj", "{AA28A669-2272-4EEA-93DC-05570436ECA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GunsawLevelEditorTools", "src\GunsawLevelEditorTools\GunsawLevelEditorTools.csproj", "{1CA36408-862C-406D-B17D-3B69E297EC08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CB46520-F1D2-4AAF-B78D-171E07D847F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CB46520-F1D2-4AAF-B78D-171E07D847F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CB46520-F1D2-4AAF-B78D-171E07D847F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CB46520-F1D2-4AAF-B78D-171E07D847F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA28A669-2272-4EEA-93DC-05570436ECA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA28A669-2272-4EEA-93DC-05570436ECA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA28A669-2272-4EEA-93DC-05570436ECA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA28A669-2272-4EEA-93DC-05570436ECA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CA36408-862C-406D-B17D-3B69E297EC08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CA36408-862C-406D-B17D-3B69E297EC08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CA36408-862C-406D-B17D-3B69E297EC08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CA36408-862C-406D-B17D-3B69E297EC08}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
