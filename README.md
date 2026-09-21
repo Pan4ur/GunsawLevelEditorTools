@@ -22,7 +22,7 @@ Also works with Door Target Changers
 
 Ctrl + G to toggle
 
-![icon](Assets/Groundpoints.gif)
+![icon](Assets/GroundPoints.gif)
 
 ### Ground points auto ID
 
