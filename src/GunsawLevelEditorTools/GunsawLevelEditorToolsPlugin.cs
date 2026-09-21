@@ -12,10 +12,10 @@ using UnityEngine.UI;
 namespace GunsawLevelEditorTools;
 
 [BepInPlugin(PluginGuid, PluginName, PluginVersion)]
-public sealed class ImagePastePlugin : BaseUnityPlugin
+public sealed class GunsawLevelEditorToolsPlugin : BaseUnityPlugin
 {
-    public const string PluginGuid = "pan4ur.gunsaw.imagepaste";
-    public const string PluginName = "Gunsaw Image Paste";
+    public const string PluginGuid = "pan4ur.gunsaw.leveleditortools";
+    public const string PluginName = "Gunsaw Level Editor Tools";
     public const string PluginVersion = "0.0.1";
     private const int MarkerId = -7319841;
 

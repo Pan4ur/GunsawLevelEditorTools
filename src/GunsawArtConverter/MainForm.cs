@@ -85,7 +85,7 @@ internal sealed class MainForm : Form
         Place(_contourResolution, 24, _contourPanel);
         _contourPanel.Controls.Add(Label("Color sensitivity", 56));
         Place(_contourThreshold, 78, _contourPanel);
-        _contourPanel.Controls.Add(Label("Detail (1–10)", 112));
+        _contourPanel.Controls.Add(Label("Detail", 112));
         Place(_detail, 134, _contourPanel);
         _contourPanel.Controls.Add(Label("Art width in world units", 168));
         Place(_worldWidth, 190, _contourPanel);
