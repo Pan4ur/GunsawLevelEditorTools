@@ -8,7 +8,7 @@ Toggle on and off using Ctrl + M (hold ALT to disable snapping)
 
 ![icon](Assets/AltEditing.gif)
 
-### Door target visualisation
+### Door target visualization
 
 Hold shift to set door target, hold ALT to disable 15 degree snapping
 
@@ -18,7 +18,7 @@ Also works with Door Target Changers
 
 ![icon](Assets/DoorTargetChanger.gif)
 
-### Ground points visualisation
+### Ground points visualization
 
 Ctrl + G to toggle
 
@@ -35,8 +35,7 @@ When a new groundpoint is created, it is automatically assigned an ID from the r
 
 ### Prop connections & ID list
 
-Displays props associated with a single ID. This sheet shows a list of reserved IDs (sorted in descending order)
-Can be toggled by L key
+Displays props associated with a single ID. Can be toggled by L key. ID list shows a list of reserved IDs (sorted in descending order)
 
 ![icon](Assets/PropConnections.gif)
 
